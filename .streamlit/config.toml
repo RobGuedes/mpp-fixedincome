@@ -1,0 +1,15 @@
+# Theme for this lab (colours from the book cover; see lab_theme.py).
+[theme]
+base = "light"
+primaryColor = "#D72906"
+backgroundColor = "#F7F3EE"
+secondaryBackgroundColor = "#EFE6DB"
+textColor = "#221B17"
+borderColor = "#E7DDD3"
+linkColor = "#B32205"
+
+[theme.sidebar]
+backgroundColor = "#14100E"
+secondaryBackgroundColor = "#241C18"
+textColor = "#EEDAB9"
+primaryColor = "#FF6A13"
